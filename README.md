@@ -31,7 +31,7 @@ $ npm start
 
 # To run app on hosted link
 
-Click on the link https://vyorius-internship-task.netlify.app/
+Click on the link https://vyorius-task.herokuapp.com/
 
 ## How to use the app
 
