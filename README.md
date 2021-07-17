@@ -1,6 +1,6 @@
 # Vyorius Task
 
-Try the demo at https://vyorius-internship-task.netlify.app/
+Try the demo at https://vyorius-task.herokuapp.com/
 
 ## Stack
 
