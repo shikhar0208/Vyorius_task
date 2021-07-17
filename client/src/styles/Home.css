@@ -1,0 +1,34 @@
+.container {
+  padding: 0 3rem;
+}
+
+.brandNameDiv {
+  margin: 0 2rem;
+  border-bottom: 1px solid #b7c2c3;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.2rem;
+}
+
+.brandNameDiv button {
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  color: #ffffff;
+  background: linear-gradient(to right, #097ddb, #83abed);
+  padding: 1rem 1.2rem;
+  border-radius: 2rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  margin-right: 1.2rem;
+}
+
+.brandNameH1 {
+  margin-left: 1.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #0058ac;
+}
